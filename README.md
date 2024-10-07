@@ -6,7 +6,7 @@
 
 **
 
-<img src="home.png">
+<img src="src/home.png">
 
 ### <a href="https://react-landing-page-template-93ne.vercel.app/">LIVE DEMO</a> 
 
